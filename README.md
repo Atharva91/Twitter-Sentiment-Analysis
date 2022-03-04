@@ -1,2 +1,2 @@
 # Twitter-Sentiment-Analysis
-The project is focused on analyzing the daily tweets that are being made on Twitter. In this Project we are using 
+This project is majorly focused on understanding the sentiment of a Twitter sentence that is posted daily by active users. We are using a general NLP approach to categorize the words of sentences into 2 classes which are positive and negative after data pre-processing. We were able to remove all the unwanted characters from a given statement. Then we used the concepts of stemming and tokenizing to prepare the accurate classes. We then used logistic regression and train test split to perform model training where we were able to obtain an accuracy of about 94%.
